@@ -9,6 +9,7 @@ Create 4 Ubuntu VMs:
 |LB2   |  192.168.127.151 
 |Webserver1  |  192.168.127.152 
 |Webserver2  |   192.168.127.153
+
 We will use a Virtual IP address:192.168.127.154
 
 ### Configure webserver
