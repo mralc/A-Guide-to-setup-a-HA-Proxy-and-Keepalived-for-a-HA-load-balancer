@@ -4,7 +4,7 @@ This guide show you how to seup a HA load balancer using HAproxy and Keepalived
 ## Setup
 Create 4 Ubuntu VMs:
 | Server Name   |  IP Address 
-|---|---|---|---|---|
+|---|---
 |LB1   |  192.168.127.150 
 |LB2   |  192.168.127.151 
 |Webserver1  |  192.168.127.152 
